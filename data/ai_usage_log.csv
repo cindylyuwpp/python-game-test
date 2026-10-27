@@ -1,0 +1,61 @@
+date,model,provider,media_type,task,project_stage,credits_used,outputs,duration_sec,rating,kept
+2026-09-14,Firefly Image 4,Adobe,image,moodboard,brainstorm,20,4,,4,yes
+2026-09-15,Runway Gen-4,Runway,video,product motion,ideation,120,1,5,4,yes
+2026-09-16,Firefly Image 4,Adobe,image,social post,refinement,20,4,,2,no
+2026-09-17,Firefly Image 3,Adobe,image,logo concept,ideation,10,4,,2,no
+2026-09-17,Firefly Image 4,Adobe,image,character concept,ideation,20,4,,4,yes
+2026-09-17,Firefly Image 4,Adobe,image,moodboard,brainstorm,20,4,,3,no
+2026-09-19,Firefly Image 4,Adobe,image,character concept,brainstorm,20,4,,4,yes
+2026-09-19,Gemini Omni Flash,Google,video,animated logo,refinement,100,1,5,3,no
+2026-09-20,Runway Gen-4,Runway,video,animated logo,ideation,120,1,5,4,yes
+2026-09-21,GPT Image,OpenAI,image,character concept,brainstorm,40,2,,4,yes
+2026-09-22,Firefly Image 4,Adobe,image,background,ideation,20,4,,4,yes
+2026-09-23,Firefly Image 5,Adobe,image,social post,brainstorm,30,4,,4,yes
+2026-09-23,GPT Image,OpenAI,image,product shot,ideation,40,2,,4,yes
+2026-09-24,Firefly Image 5,Adobe,image,logo concept,ideation,30,4,,4,yes
+2026-09-25,Firefly Image 3,Adobe,image,background,brainstorm,10,4,,4,yes
+2026-09-26,Firefly Image 3,Adobe,image,product shot,brainstorm,10,4,,3,no
+2026-09-26,Gemini Omni Flash,Google,video,social clip,ideation,100,1,5,4,yes
+2026-09-26,Runway Gen-4,Runway,video,mood video,refinement,120,1,8,4,yes
+2026-09-28,Firefly Image 3,Adobe,image,logo concept,brainstorm,10,4,,1,no
+2026-09-28,Firefly Image 3,Adobe,image,logo concept,brainstorm,10,4,,3,no
+2026-09-28,Gemini Omni Flash,Google,video,animated logo,final,200,1,10,3,no
+2026-09-29,Firefly Image 3,Adobe,image,social post,brainstorm,10,4,,3,yes
+2026-10-01,Firefly Image 3,Adobe,image,product shot,final,10,4,,4,yes
+2026-10-01,Firefly Image 3,Adobe,image,social post,ideation,10,4,,3,yes
+2026-10-01,Firefly Image 4,Adobe,image,background,brainstorm,20,4,,4,yes
+2026-10-02,Runway Gen-4,Runway,video,mood video,refinement,120,1,5,5,yes
+2026-10-03,Runway Gen-4,Runway,video,animated logo,ideation,120,1,5,3,no
+2026-10-04,Runway Gen-4,Runway,video,mood video,refinement,120,1,5,3,no
+2026-10-05,Gemini Omni Flash,Google,video,social clip,refinement,100,1,8,3,no
+2026-10-06,Firefly Image 5,Adobe,image,character concept,refinement,30,4,,5,yes
+2026-10-06,Runway Gen-4,Runway,video,product motion,ideation,120,1,8,2,no
+2026-10-07,Gemini Omni Flash,Google,video,social clip,final,100,1,5,3,no
+2026-10-08,Firefly Image 5,Adobe,image,product shot,refinement,30,4,,5,yes
+2026-10-08,Gemini Omni Flash,Google,video,animated logo,ideation,100,1,5,4,yes
+2026-10-08,Runway Gen-4,Runway,video,animated logo,ideation,120,1,8,3,no
+2026-10-09,GPT Image,OpenAI,image,character concept,refinement,40,1,,5,yes
+2026-10-11,Gemini Omni Flash,Google,video,social clip,ideation,100,1,5,4,yes
+2026-10-12,Firefly Image 5,Adobe,image,social post,brainstorm,30,4,,5,yes
+2026-10-12,Gemini Omni Flash,Google,video,product motion,ideation,100,1,5,3,no
+2026-10-12,Runway Gen-4,Runway,video,product motion,refinement,120,1,5,5,yes
+2026-10-13,Firefly Image 5,Adobe,image,moodboard,refinement,30,4,,4,yes
+2026-10-14,Firefly Image 5,Adobe,image,character concept,refinement,30,4,,4,yes
+2026-10-14,Nano Banana,Google,image,character concept,refinement,40,1,,4,yes
+2026-10-16,Firefly Image 4,Adobe,image,product shot,refinement,20,4,,4,yes
+2026-10-16,Gemini Omni Flash,Google,video,animated logo,ideation,200,1,10,3,no
+2026-10-17,Firefly Image 4,Adobe,image,social post,refinement,20,4,,4,yes
+2026-10-18,Nano Banana,Google,image,logo concept,final,40,2,,5,yes
+2026-10-19,Firefly Image 5,Adobe,image,moodboard,ideation,30,4,,5,yes
+2026-10-19,Nano Banana,Google,image,social post,ideation,40,2,,4,yes
+2026-10-20,Firefly Image 4,Adobe,image,social post,ideation,20,4,,3,no
+2026-10-20,Gemini Omni Flash,Google,video,mood video,ideation,100,1,5,5,yes
+2026-10-22,Nano Banana,Google,image,logo concept,brainstorm,40,1,,4,yes
+2026-10-22,Runway Gen-4,Runway,video,animated logo,refinement,120,1,8,4,yes
+2026-10-23,Firefly Image 4,Adobe,image,background,refinement,20,4,,4,yes
+2026-10-24,Nano Banana,Google,image,logo concept,final,40,2,,4,yes
+2026-10-24,Runway Gen-4,Runway,video,animated logo,ideation,120,1,5,5,yes
+2026-10-25,GPT Image,OpenAI,image,character concept,refinement,40,1,,4,yes
+2026-10-25,Nano Banana,Google,image,moodboard,final,40,1,,5,yes
+2026-10-26,Gemini Omni Flash,Google,video,animated logo,ideation,200,1,10,5,yes
+2026-10-28,Firefly Image 5,Adobe,image,character concept,final,30,4,,5,yes
